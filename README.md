@@ -1,0 +1,2 @@
+# Electrical-Calc
+The calculator
